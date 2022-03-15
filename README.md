@@ -1,4 +1,4 @@
-# kindle_clone
+# Kindle Clone
 
 The Kindle app is free and lets you read Amazon ebooks on any device. If you want to
 read ebooks but don’t have an ereader, you can download the Kindle app on your
